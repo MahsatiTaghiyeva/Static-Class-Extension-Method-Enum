@@ -2,3 +2,4 @@
 /home/hp/Static-Class-Extension-Method-Enum/CardSystem/obj/Debug/net10.0/CardSystem.AssemblyInfoInputs.cache
 /home/hp/Static-Class-Extension-Method-Enum/CardSystem/obj/Debug/net10.0/CardSystem.AssemblyInfo.cs
 /home/hp/Static-Class-Extension-Method-Enum/CardSystem/obj/Debug/net10.0/CardSystem.csproj.CoreCompileInputs.cache
+/home/hp/Static-Class-Extension-Method-Enum/CardSystem/obj/Debug/net10.0/CardSystem.sourcelink.json
